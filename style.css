@@ -6,7 +6,6 @@
 header, h1, h3,p,ul {
     margin: 20px;
 }
-
 h1 {
     font-weight: 600;
     padding-bottom: 5px;
@@ -16,21 +15,6 @@ h3 {
 }
 img{
     width: 25%;
-}
-.contactinfo{
-
-}
-.summary{
-
-}
-.exp{
-    
-}
-.education{
-
-}
-.english_level{
-
 }
 .wrapper{
     max-width: 1024px;
